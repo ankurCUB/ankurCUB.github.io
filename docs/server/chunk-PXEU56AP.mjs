@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{a as p,b as r,c as n,h as i,k as m,m as a,n as f,q as s,u as c,x as l}from"./chunk-ETITXDBA.mjs";var o=class e{title="my-angular-app";static \u0275fac=function(t){return new(t||e)};static \u0275cmp=p({type:e,selectors:[["app-root"]],standalone:!0,features:[n],decls:1,vars:0,template:function(t,x){t&1&&r(0,"router-outlet")},dependencies:[c]})};var u=[];var d={providers:[i({eventCoalescing:!0}),l(u),f()]};var v={providers:[s()]},g=m(d,v);var A=()=>a(o,g),B=A;export{B as a};
